@@ -15,7 +15,6 @@ I'm a **Computer Science undergraduate** at Hazara University with a strong pass
 
 - 🎓 **Education:** BS Computer Science (2023 - 2027) at **Hazara University, Pakistan**.
 - 🔭 **Focus:** Data Science, Artificial Intelligence, and Machine Learning.
-- 💼 **Experience:** Completed internships focusing on data analysis, model training, NLP, and EDA.
 - 🌱 **Learning:** Continuously attending workshops (like Google AI Studio & Blockchain Dev) and expanding my tech stack.
 - 📫 **How to reach me:** **[mehdiiims05@gmail.com](mailto:mehdiiims05@gmail.com)**
 
@@ -23,7 +22,7 @@ I'm a **Computer Science undergraduate** at Hazara University with a strong pass
 
 ### 💼 Experience 
 *   **AI/ML Intern** @ *DevNox Solution* (July 2026 – present)
-    *   Hybrid Mode internship focusing on Basic to Advanced Python Programming with data analysis, training, and visualization.
+    *   Hybrid Mode internship focusing on Basic to Advanced Python Programming with data analysis, training and visualization.
 *   **Data Science Intern** @ *NovaXcelerate* (Dec 2025 – Mar 2026)
     *   On-campus internship focusing on data analysis, model training, and data visualization. 
 *   **Data Science & AI Intern** @ *Arch Technology* (May 2025 – Jul 2025)
