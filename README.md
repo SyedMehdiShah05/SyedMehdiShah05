@@ -22,7 +22,8 @@ I'm a **Computer Science undergraduate** at Hazara University with a strong pass
 ---
 
 ### 💼 Experience 
-
+*   **AI/ML Intern** @ *DevNox Solution* (July 2026 – present)
+    *   Hybrid Mode internship focusing on Basic to Advanced Python Programming with data analysis, training, and visualization.
 *   **Data Science Intern** @ *NovaXcelerate* (Dec 2025 – Mar 2026)
     *   On-campus internship focusing on data analysis, model training, and data visualization. 
 *   **Data Science & AI Intern** @ *Arch Technology* (May 2025 – Jul 2025)
