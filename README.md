@@ -17,7 +17,7 @@ I'm a **Computer Science undergraduate** at Hazara University with a strong pass
 - 🔭 **Focus:** Data Science, Artificial Intelligence, and Machine Learning.
 - 🌱 **Learning:** Continuously attending workshops (like Google AI Studio & Blockchain Dev) and expanding my tech stack.
 - 📫 **How to reach me:** **[mehdiiims05@gmail.com](mailto:mehdiiims05@gmail.com)**
-- 💻 **Check my Portfolio :** **[Syed Mehdi Shah Portfolio](https://github.com/SyedMehdiShah05/Portfolio)**
+- 💻 **Check my Portfolio :** **[Syed Mehdi Shah Portfolio](https://syedmehdishah05.github.io/Portfolio/)**
 ---
 
 ### 💼 Experience 
