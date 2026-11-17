@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/SyedMehdiShah"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:mehdiiims05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:mehdimosvi05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://syedmehdishah05.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-255E63?logo=Web&logoColor=white" alt="Portfolio"></a>
 </p>
 
@@ -16,7 +16,7 @@ I'm a **Computer Science undergraduate** at Hazara University with a strong pass
 - 🎓 **Education:** BS Computer Science (2023 - 2027) at **Hazara University, Pakistan**.
 - 🔭 **Focus:** Data Science, Artificial Intelligence, and Machine Learning.
 - 🌱 **Learning:** Continuously attending workshops (like Google AI Studio & Blockchain Dev) and expanding my tech stack.
-- 📫 **How to reach me:** **[mehdiiims05@gmail.com](mailto:mehdiiims05@gmail.com)**
+- 📫 **How to reach me:** **[mehdimosvii05@gmail.com](mailto:mehdimosvii05@gmail.com)**
 - 💻 **Check my Portfolio :** **[Syed Mehdi Shah Portfolio](https://syedmehdishah05.github.io/Portfolio/)**
 ---
 
